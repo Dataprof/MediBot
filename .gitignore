@@ -1,0 +1,24 @@
+# Environment Variables and Secrets
+.env
+secret/
+
+# Python Virtual Environments
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs and OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project generated artifacts (Optional: uncomment to ignore)
+# data/faiss_index/
+# plots/

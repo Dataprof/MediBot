@@ -1,0 +1,35 @@
+# Core Frameworks
+langchain>=0.1.0
+langchain-community
+langchain-core
+langgraph
+
+# LLM Providers
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+
+# Vector DB & Embeddings
+sentence-transformers
+faiss-cpu
+
+# UI & API
+gradio
+fastapi
+uvicorn
+
+# Monitoring & Observability
+langsmith
+langfuse
+
+# Evlauation
+ragas
+trulens-eval
+pytest
+
+# Utilities
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
